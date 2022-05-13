@@ -1,4 +1,4 @@
-FROM golang:latest
+FROM golang:1.18-bullseye
 
 ENV SHELL /bin/bash
 ENV HOME /root
